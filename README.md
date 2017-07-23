@@ -1,0 +1,1 @@
+# README w29 homework Part2. Spring Boot Rest Service### email:<kalmarzoltan82@gmail.com>### Practice content* @Restcontrollers* DayController (practice the Date)* LottoController (practice the Random)* ExcelController  (introduce the POI library)
